@@ -58,7 +58,8 @@ General Equilibrium Models (GEMs) are used for many purposes in the development 
 
 Unless the retailers are very sure, most of the demand distributions are unknown. And considering additional freight costs, at what price to sell a product is also an important question from an economic point of view. Among these questions and many more, important from all perspectives, we study how to perform supply chain optimization under the mild assumptions of the demand and cost functions.
 
- 
+
+![](images/Picture1.png)
 Fig. 1: Reality of next wave of growth in industries. [Source: https://www.mckinsey.com/] 
 
 
