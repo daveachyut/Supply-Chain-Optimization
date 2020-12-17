@@ -13,6 +13,7 @@ ACHYUT DAVE
 
 
  
+![](images/Picture1.png)
 
 
 
@@ -59,7 +60,8 @@ General Equilibrium Models (GEMs) are used for many purposes in the development 
 Unless the retailers are very sure, most of the demand distributions are unknown. And considering additional freight costs, at what price to sell a product is also an important question from an economic point of view. Among these questions and many more, important from all perspectives, we study how to perform supply chain optimization under the mild assumptions of the demand and cost functions.
 
 
-![](images/Picture1.png)
+![](images/Picture2.jpg)
+
 Fig. 1: Reality of next wave of growth in industries. [Source: https://www.mckinsey.com/] 
 
 
@@ -79,6 +81,8 @@ For making sensible compatibility with real world[4], I try to abide by minimum 
 
 The final assumption is that the additional freight costs are dependent on factors such as distance, order size and the size of warehouse.
 
+
+![](images/Picture3.jpg)
  
 Fig. 2: Graphical Representation of Costco Retailers and Warehouse Map. 
 
@@ -94,7 +98,9 @@ From the producer’s side to the customer side, the information flow mainly com
 In the other direction, the main information is regarding the supply requirements, whereas other information may include demand, selling price, discounts, etc.
 
 
- 
+
+![](images/Picture4.jpg)
+  
 Fig. 3:Synchronization in Supply Chain. [Source: https://sourcingjournal.com/] 
 
 
@@ -109,6 +115,8 @@ Giving higher weightage to the information from the customer side is always bene
 The trends and variation of demands or localized changes in the supply chain can be initially recognized at the local retailer stores, and thus information processing at that level can be highly valuable.
 
 
+
+![](images/Picture5.jpg)
  
 Fig. 4: Modern Supply Chain Management. [Source: https://hbr.org/] 
 
@@ -118,6 +126,8 @@ How do we study ‘The Map’? :
 This graphical representation of Costco retailers and warehouse map is referred to as ‘The Map’.
 
 
+
+![](images/Picture6.jpg)
  
 Fig. 5: ‘The Map’.
 
@@ -145,6 +155,8 @@ Each retailer has its own version of historic data.
 Each retailer can add its latest data that can be compared to find differences and similarities with the historic data.
 
 
+
+![](images/Picture7.jpg)
  
 Fig. 6: A snip of historic data of Retailer_1.
  
@@ -163,9 +175,14 @@ Fig. 6: A snip of historic data of Retailer_1.
 Does the distribution of customer demand change? :
 
 Based in historical data, actual demand of the last week, and the predicted demand of the upcoming week, I try to predict the distribution of the demand for the upcoming week.
- 
+
+
+![](images/Picture8.jpg)
+
 Fig. 7.a: Histogram of predicted demand distribution
 
+
+![](images/Picture9.jpg)
  
 Fig. 7.b: Probability Distribution Function of predicted demand
 
@@ -175,9 +192,13 @@ Fig. 7.b: Probability Distribution Function of predicted demand
 
 This is possible for seven different types of demand distributions.
 
+
+![](images/Picture10.jpg)
  
 Fig. 8.a: Histogram of predicted demand distribution.
 
+
+![](images/Picture11.jpg)
  
 Fig. 8.b: : Probability Distribution Function of predicted demand
 
@@ -231,6 +252,8 @@ How can the retailers benefit? :
 Based on geographic limitations, minimum and maximum order limits, predicted demand and retailer side inventory limitations; order predictions like this one can be generated which aim at minimizing additional freight costs for the retailer.
 
 
+
+![](images/Picture12.jpg)
  
 Fig. 9: Order predictions for Retailer_2.
 
