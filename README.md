@@ -46,7 +46,9 @@ Does changing ‘The Resolution’ have any effect? More importantly when does �
 Can evaluation help? Assuming evaluation is followed by ‘The Recalibration’.
 
 References
- 
+
+
+
 SUPPLY CHAIN OPTIMIZATION
 
 Need for Supply Chain Optimization:
