@@ -129,7 +129,7 @@ This graphical representation of Costco retailers and warehouse map is referred 
 
 
 
-![](images/Picture6.jpg)
+![](images/Picture3.jpg)
  
 Fig. 5: ‘The Map’.
 
@@ -158,7 +158,7 @@ Each retailer can add its latest data that can be compared to find differences a
 
 
 
-![](images/Picture7.jpg)
+![](images/Picture6.jpg)
  
 Fig. 6: A snip of historic data of Retailer_1.
  
@@ -179,12 +179,12 @@ Does the distribution of customer demand change? :
 Based in historical data, actual demand of the last week, and the predicted demand of the upcoming week, I try to predict the distribution of the demand for the upcoming week.
 
 
-![](images/Picture8.jpg)
+![](images/Picture7.jpg)
 
 Fig. 7.a: Histogram of predicted demand distribution
 
 
-![](images/Picture9.jpg)
+![](images/Picture8.jpg)
  
 Fig. 7.b: Probability Distribution Function of predicted demand
 
@@ -195,12 +195,12 @@ Fig. 7.b: Probability Distribution Function of predicted demand
 This is possible for seven different types of demand distributions.
 
 
-![](images/Picture10.jpg)
+![](images/Picture9.jpg)
  
 Fig. 8.a: Histogram of predicted demand distribution.
 
 
-![](images/Picture11.jpg)
+![](images/Picture10.jpg)
  
 Fig. 8.b: : Probability Distribution Function of predicted demand
 
@@ -255,7 +255,7 @@ Based on geographic limitations, minimum and maximum order limits, predicted dem
 
 
 
-![](images/Picture12.jpg)
+![](images/Picture11.jpg)
  
 Fig. 9: Order predictions for Retailer_2.
 
